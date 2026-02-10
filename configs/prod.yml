@@ -1,0 +1,4 @@
+# Production Environment Configuration
+env: prod
+database: taxi_db_prod
+storage_path: /mnt/taxi_data/prod/

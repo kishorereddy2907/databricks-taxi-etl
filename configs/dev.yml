@@ -1,0 +1,4 @@
+# Development Environment Configuration
+env: dev
+database: taxi_db_dev
+storage_path: /mnt/taxi_data/dev/
